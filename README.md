@@ -15,3 +15,4 @@
 | 13 | [2217A - The Equalizer](./Codeforces/basic/2217A%20-%20The%20Equalizer) | [Codeforces](https://codeforces.com/problemset/problem/2217/A) | basic | 02 Aug 2026 | 02:26 pm |
 | 14 | [1899A - Game with Integers](./Codeforces/basic/1899A%20-%20Game%20with%20Integers) | [Codeforces](https://codeforces.com/problemset/problem/1899/A) | basic | 02 Aug 2026 | 02:26 pm |
 | 15 | [2148B - Lasers](./Codeforces/basic/2148B%20-%20Lasers) | [Codeforces](https://codeforces.com/problemset/problem/2148/B) | basic | 02 Aug 2026 | 02:26 pm |
+| 16 | [2148A - Sublime Sequence](./Codeforces/basic/2148A%20-%20Sublime%20Sequence) | [Codeforces](https://codeforces.com/problemset/problem/2148/A) | basic | 02 Aug 2026 | 02:26 pm |
