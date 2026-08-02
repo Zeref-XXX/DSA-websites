@@ -20,3 +20,4 @@
 | 18 | [2094A - Trippi Troppi](./Codeforces/basic/2094A%20-%20Trippi%20Troppi) | [Codeforces](https://codeforces.com/problemset/problem/2094/A) | basic | 02 Aug 2026 | 02:27 pm |
 | 19 | [2093A - Ideal Generator](./Codeforces/basic/2093A%20-%20Ideal%20Generator) | [Codeforces](https://codeforces.com/problemset/problem/2093/A) | basic | 02 Aug 2026 | 02:27 pm |
 | 20 | [2088A - Easy Problem](./Codeforces/basic/2088A%20-%20Easy%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2088/A) | basic | 02 Aug 2026 | 02:27 pm |
+| 21 | [2033A - Sakurako and Kosuke](./Codeforces/basic/2033A%20-%20Sakurako%20and%20Kosuke) | [Codeforces](https://codeforces.com/problemset/problem/2033/A) | basic | 02 Aug 2026 | 02:27 pm |
