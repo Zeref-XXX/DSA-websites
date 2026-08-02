@@ -8,3 +8,4 @@
 | 6 | [2218E - The 67th XOR Problem](./Codeforces/basic/2218E%20-%20The%2067th%20XOR%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2218/E) | basic | 02 Aug 2026 | 02:25 pm |
 | 7 | [2218C - The 67th Permutation Problem](./Codeforces/basic/2218C%20-%20The%2067th%20Permutation%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2218/C) | basic | 02 Aug 2026 | 02:25 pm |
 | 8 | [2218A - The 67th Integer Problem](./Codeforces/basic/2218A%20-%20The%2067th%20Integer%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2218/A) | basic | 02 Aug 2026 | 02:25 pm |
+| 9 | [2218B - The 67th 6-7 Integer Problem](./Codeforces/basic/2218B%20-%20The%2067th%206-7%20Integer%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2218/B) | basic | 02 Aug 2026 | 02:25 pm |
