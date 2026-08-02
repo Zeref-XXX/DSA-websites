@@ -12,3 +12,4 @@
 | 10 | [2044B - Normal Problem](./Codeforces/basic/2044B%20-%20Normal%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2044/B) | basic | 02 Aug 2026 | 02:26 pm |
 | 11 | [2044A - Easy Problem](./Codeforces/basic/2044A%20-%20Easy%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2044/A) | basic | 02 Aug 2026 | 02:26 pm |
 | 12 | [1896A - Jagged Swaps](./Codeforces/basic/1896A%20-%20Jagged%20Swaps) | [Codeforces](https://codeforces.com/problemset/problem/1896/A) | basic | 02 Aug 2026 | 02:26 pm |
+| 13 | [2217A - The Equalizer](./Codeforces/basic/2217A%20-%20The%20Equalizer) | [Codeforces](https://codeforces.com/problemset/problem/2217/A) | basic | 02 Aug 2026 | 02:26 pm |
