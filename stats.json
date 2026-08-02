@@ -1,14 +1,14 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-02",
-  "todayCount": 15,
+  "todayCount": 16,
   "difficultyCounts": {
     "easy": 0,
     "medium": 3,
     "hard": 1,
-    "basic": 15
+    "basic": 16
   },
   "syncedProblems": {
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
@@ -29,12 +29,13 @@
     "Codeforces_2094A_-_Trippi_Troppi": true,
     "Codeforces_2093A_-_Ideal_Generator": true,
     "Codeforces_2088A_-_Easy_Problem": true,
-    "Codeforces_2033A_-_Sakurako_and_Kosuke": true
+    "Codeforces_2033A_-_Sakurako_and_Kosuke": true,
+    "Codeforces_2072A_-_New_World_New_Me_New_Array": true
   },
   "activityHistory": {
     "2026-07-26": 3,
     "2026-07-28": 1,
-    "2026-08-02": 15
+    "2026-08-02": 16
   },
   "todayProblems": [
     "2214B - Are You Smiling",
@@ -51,6 +52,7 @@
     "2094A - Trippi Troppi",
     "2093A - Ideal Generator",
     "2088A - Easy Problem",
-    "2033A - Sakurako and Kosuke"
+    "2033A - Sakurako and Kosuke",
+    "2072A - New World New Me New Array"
   ]
 }

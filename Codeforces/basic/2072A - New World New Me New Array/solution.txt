@@ -1,0 +1,24 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int n, k, p;
+        cin >> n >> k >> p;
+
+        int maxl = n * p;
+        int minl = -n * p;
+
+        if (maxl < k || minl > k)
+            cout << -1 << endl;
+        else
+        {
+            int op = min(((abs(k) + p - 1) / p), n);
+            // if(op>n ) cout<<n<<endl;
+            cout << op << endl;
+        }
+    }
+}
