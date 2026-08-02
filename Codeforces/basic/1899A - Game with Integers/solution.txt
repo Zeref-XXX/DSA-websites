@@ -1,0 +1,41 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        bool chance = true;
+        int count = 0;
+        int n;
+        cin >> n;
+        int add = n, sub = n;
+        while (true)
+        {
+            count++;
+            if (count == 10)
+            {
+                cout << "Second" << endl;
+                break;
+            }
+            if (chance)
+            {
+                add += 1;
+                sub -= 1;
+                if (add % 3 == 0 || sub % 3 == 0)
+                {
+                    cout << "First" << endl;
+                    break;
+                }
+                chance = false;
+            }
+            else
+            {
+                add = n + 1;
+                sub = n - 1;
+                chance = true;
+            }
+        }
+    }
+}

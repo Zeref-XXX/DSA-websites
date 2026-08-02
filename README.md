@@ -13,3 +13,4 @@
 | 11 | [2044A - Easy Problem](./Codeforces/basic/2044A%20-%20Easy%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2044/A) | basic | 02 Aug 2026 | 02:26 pm |
 | 12 | [1896A - Jagged Swaps](./Codeforces/basic/1896A%20-%20Jagged%20Swaps) | [Codeforces](https://codeforces.com/problemset/problem/1896/A) | basic | 02 Aug 2026 | 02:26 pm |
 | 13 | [2217A - The Equalizer](./Codeforces/basic/2217A%20-%20The%20Equalizer) | [Codeforces](https://codeforces.com/problemset/problem/2217/A) | basic | 02 Aug 2026 | 02:26 pm |
+| 14 | [1899A - Game with Integers](./Codeforces/basic/1899A%20-%20Game%20with%20Integers) | [Codeforces](https://codeforces.com/problemset/problem/1899/A) | basic | 02 Aug 2026 | 02:26 pm |

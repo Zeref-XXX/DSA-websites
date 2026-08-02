@@ -1,14 +1,14 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-02",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 0,
     "medium": 3,
     "hard": 1,
-    "basic": 8
+    "basic": 9
   },
   "syncedProblems": {
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
@@ -22,12 +22,13 @@
     "Codeforces_2218B_-_The_67th_6-7_Integer_Problem": true,
     "Codeforces_2044B_-_Normal_Problem": true,
     "Codeforces_1896A_-_Jagged_Swaps": true,
-    "Codeforces_2217A_-_The_Equalizer": true
+    "Codeforces_2217A_-_The_Equalizer": true,
+    "Codeforces_1899A_-_Game_with_Integers": true
   },
   "activityHistory": {
     "2026-07-26": 3,
     "2026-07-28": 1,
-    "2026-08-02": 8
+    "2026-08-02": 9
   },
   "todayProblems": [
     "2214B - Are You Smiling",
@@ -37,6 +38,7 @@
     "2218B - The 67th 6-7 Integer Problem",
     "2044B - Normal Problem",
     "1896A - Jagged Swaps",
-    "2217A - The Equalizer"
+    "2217A - The Equalizer",
+    "1899A - Game with Integers"
   ]
 }
