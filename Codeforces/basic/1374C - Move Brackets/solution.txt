@@ -1,0 +1,40 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void fun()
+{
+    stack<int> st;
+    string s;
+    int n, count = 0;
+    cin >> n >> s;
+    int index = 0;
+    // st.push(s[0]);
+    for (int i = 0; i < n; i++)
+    {
+        if (s[i] == ')')
+        {
+            if (!st.empty() && st.top() == '(')
+            {
+                st.pop();
+                // ())()()(
+            }
+            else
+                count++;
+        }
+        else
+        {
+            st.push(s[i]);
+        }
+    }
+    cout<<count<<endl;
+}
+
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        fun();
+    }
+}
