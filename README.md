@@ -22,3 +22,4 @@
 | 20 | [2088A - Easy Problem](./Codeforces/basic/2088A%20-%20Easy%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2088/A) | basic | 02 Aug 2026 | 02:27 pm |
 | 21 | [2033A - Sakurako and Kosuke](./Codeforces/basic/2033A%20-%20Sakurako%20and%20Kosuke) | [Codeforces](https://codeforces.com/problemset/problem/2033/A) | basic | 02 Aug 2026 | 02:27 pm |
 | 22 | [2072A - New World New Me New Array](./Codeforces/basic/2072A%20-%20New%20World%20New%20Me%20New%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2072/A) | basic | 02 Aug 2026 | 02:27 pm |
+| 23 | [2248A - You Delete I Delete](./Codeforces/basic/2248A%20-%20You%20Delete%20I%20Delete) | [Codeforces](https://codeforces.com/problemset/problem/2248/A) | basic | 02 Aug 2026 | 02:27 pm |

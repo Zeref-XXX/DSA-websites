@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define mod (long long)(1e9+7)
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int t;
+    cin>>t;
+    while(t--){
+        string s;
+        cin>>s;
+        int a=-1,b=-1;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='0'){a=i;break;}
+        }
+        string tp=(a<s.size())?s.substr(0,a)+ s.substr(a+1):s.substr(0,a);
+        for(int i=0;i<tp.size();i++){
+            if(tp[i]=='1'){b=i;break;}
+        }
+        string sol=(b<tp.size())?tp.substr(0,b)+ tp.substr(b+1):tp.substr(0,b);
+        cout<<sol<<'\n';
+    }
+}
