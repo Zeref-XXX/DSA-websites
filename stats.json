@@ -1,14 +1,14 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-02",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 0,
     "medium": 3,
     "hard": 1,
-    "basic": 10
+    "basic": 11
   },
   "syncedProblems": {
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
@@ -24,12 +24,13 @@
     "Codeforces_1896A_-_Jagged_Swaps": true,
     "Codeforces_2217A_-_The_Equalizer": true,
     "Codeforces_1899A_-_Game_with_Integers": true,
-    "Codeforces_2148A_-_Sublime_Sequence": true
+    "Codeforces_2148A_-_Sublime_Sequence": true,
+    "Codeforces_2106A_-_Dr_TC": true
   },
   "activityHistory": {
     "2026-07-26": 3,
     "2026-07-28": 1,
-    "2026-08-02": 10
+    "2026-08-02": 11
   },
   "todayProblems": [
     "2214B - Are You Smiling",
@@ -41,6 +42,7 @@
     "1896A - Jagged Swaps",
     "2217A - The Equalizer",
     "1899A - Game with Integers",
-    "2148A - Sublime Sequence"
+    "2148A - Sublime Sequence",
+    "2106A - Dr TC"
   ]
 }
