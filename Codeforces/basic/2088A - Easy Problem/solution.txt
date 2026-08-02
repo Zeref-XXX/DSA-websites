@@ -1,0 +1,8 @@
+fun main() {
+    val n = readLine()?.toIntOrNull() ?: return  // Read the number of test cases
+
+    repeat(n) {  // Loop 'n' times
+        val a = readLine()?.toIntOrNull() ?: return
+        println(a - 1)  // Print the decremented value
+    }
+}

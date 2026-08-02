@@ -19,3 +19,4 @@
 | 17 | [1374C - Move Brackets](./Codeforces/basic/1374C%20-%20Move%20Brackets) | [Codeforces](https://codeforces.com/problemset/problem/1374/C) | basic | 02 Aug 2026 | 02:27 pm |
 | 18 | [2094A - Trippi Troppi](./Codeforces/basic/2094A%20-%20Trippi%20Troppi) | [Codeforces](https://codeforces.com/problemset/problem/2094/A) | basic | 02 Aug 2026 | 02:27 pm |
 | 19 | [2093A - Ideal Generator](./Codeforces/basic/2093A%20-%20Ideal%20Generator) | [Codeforces](https://codeforces.com/problemset/problem/2093/A) | basic | 02 Aug 2026 | 02:27 pm |
+| 20 | [2088A - Easy Problem](./Codeforces/basic/2088A%20-%20Easy%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2088/A) | basic | 02 Aug 2026 | 02:27 pm |

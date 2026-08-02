@@ -1,14 +1,14 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-02",
-  "todayCount": 13,
+  "todayCount": 14,
   "difficultyCounts": {
     "easy": 0,
     "medium": 3,
     "hard": 1,
-    "basic": 13
+    "basic": 14
   },
   "syncedProblems": {
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
@@ -27,12 +27,13 @@
     "Codeforces_2148A_-_Sublime_Sequence": true,
     "Codeforces_1374C_-_Move_Brackets": true,
     "Codeforces_2094A_-_Trippi_Troppi": true,
-    "Codeforces_2093A_-_Ideal_Generator": true
+    "Codeforces_2093A_-_Ideal_Generator": true,
+    "Codeforces_2088A_-_Easy_Problem": true
   },
   "activityHistory": {
     "2026-07-26": 3,
     "2026-07-28": 1,
-    "2026-08-02": 13
+    "2026-08-02": 14
   },
   "todayProblems": [
     "2214B - Are You Smiling",
@@ -47,6 +48,7 @@
     "2148A - Sublime Sequence",
     "1374C - Move Brackets",
     "2094A - Trippi Troppi",
-    "2093A - Ideal Generator"
+    "2093A - Ideal Generator",
+    "2088A - Easy Problem"
   ]
 }
