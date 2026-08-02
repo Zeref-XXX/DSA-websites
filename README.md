@@ -5,4 +5,4 @@
 | 3 | [The Painter's Partition Problem-II](./GeeksForGeeks/Hard/The%20Painter's%20Partition%20Problem-II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1?utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Hard | 26 Jul 2026 | 01:53 am |
 | 4 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 28 Jul 2026 | 01:37 am |
 | 5 | [2214B - Are You Smiling](./Codeforces/basic/2214B%20-%20Are%20You%20Smiling) | [Codeforces](https://codeforces.com/problemset/problem/2214/B) | basic | 02 Aug 2026 | 02:25 pm |
-| 6 | [2217A - The Equalizer](./Codeforces/basic/2217A%20-%20The%20Equalizer) | [Codeforces](https://codeforces.com/problemset/problem/2217/A) | basic | 02 Aug 2026 | 02:25 pm |
+| 6 | [2218E - The 67th XOR Problem](./Codeforces/basic/2218E%20-%20The%2067th%20XOR%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2218/E) | basic | 02 Aug 2026 | 02:25 pm |
