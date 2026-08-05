@@ -25,3 +25,4 @@
 | 23 | [2248A - You Delete I Delete](./Codeforces/basic/2248A%20-%20You%20Delete%20I%20Delete) | [Codeforces](https://codeforces.com/problemset/problem/2248/A) | basic | 02 Aug 2026 | 02:27 pm |
 | 24 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 04 Aug 2026 | 04:15 pm |
 | 25 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Easy | 05 Aug 2026 | 12:24 pm |
+| 26 | [Two Sum II - Input Array Is Sorted](./LeetCode/Medium/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | 05 Aug 2026 | 12:48 pm |
