@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-08-05",
-  "todayCount": 4,
+  "totalSolved": 26,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-08-06",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 6,
+    "medium": 7,
     "hard": 1,
     "basic": 16
   },
@@ -35,19 +35,18 @@
     "GeeksForGeeks_Segregate_0s_and_1s": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "GeeksForGeeks_Product_Pair": true,
-    "GeeksForGeeks_Two_Equal_Sum_Subarrays": true
+    "GeeksForGeeks_Two_Equal_Sum_Subarrays": true,
+    "GeeksForGeeks_Kadane's_Algorithm": true
   },
   "activityHistory": {
     "2026-07-26": 3,
     "2026-07-28": 1,
     "2026-08-02": 16,
     "2026-08-04": 1,
-    "2026-08-05": 4
+    "2026-08-05": 4,
+    "2026-08-06": 1
   },
   "todayProblems": [
-    "Segregate 0s and 1s",
-    "Two Sum II - Input Array Is Sorted",
-    "Product Pair",
-    "Two Equal Sum Subarrays"
+    "Kadane's Algorithm"
   ]
 }
