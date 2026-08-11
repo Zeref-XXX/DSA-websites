@@ -30,3 +30,4 @@
 | 28 | [Two Equal Sum Subarrays](./GeeksForGeeks/Easy/Two%20Equal%20Sum%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) | Easy | 05 Aug 2026 | 02:07 pm |
 | 29 | [Kadane's Algorithm](./GeeksForGeeks/Medium/Kadane's%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Medium | 06 Aug 2026 | 01:51 pm |
 | 30 | [Maximum Difference Between Increasing Elements](./LeetCode/Easy/Maximum%20Difference%20Between%20Increasing%20Elements) | [LeetCode](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | 06 Aug 2026 | 02:22 pm |
+| 31 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 11 Aug 2026 | 03:07 pm |
