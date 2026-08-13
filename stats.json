@@ -1,12 +1,12 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-08-11",
+  "lastSyncDate": "2026-08-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 7,
+    "medium": 8,
     "hard": 2,
     "basic": 16
   },
@@ -38,7 +38,8 @@
     "GeeksForGeeks_Two_Equal_Sum_Subarrays": true,
     "GeeksForGeeks_Kadane's_Algorithm": true,
     "LeetCode_Maximum_Difference_Between_Increasing_Elements": true,
-    "LeetCode_Trapping_Rain_Water": true
+    "LeetCode_Trapping_Rain_Water": true,
+    "GeeksForGeeks_Triplet_Sum_in_Array": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -47,9 +48,10 @@
     "2026-08-04": 1,
     "2026-08-05": 4,
     "2026-08-06": 2,
-    "2026-08-11": 1
+    "2026-08-11": 1,
+    "2026-08-13": 1
   },
   "todayProblems": [
-    "Trapping Rain Water"
+    "Triplet Sum in Array"
   ]
 }
