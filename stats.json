@@ -1,12 +1,12 @@
 {
-  "totalSolved": 29,
-  "currentStreak": 1,
+  "totalSolved": 30,
+  "currentStreak": 2,
   "maxStreak": 3,
-  "lastSyncDate": "2026-08-13",
+  "lastSyncDate": "2026-08-14",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 8,
+    "medium": 9,
     "hard": 2,
     "basic": 16
   },
@@ -39,7 +39,8 @@
     "GeeksForGeeks_Kadane's_Algorithm": true,
     "LeetCode_Maximum_Difference_Between_Increasing_Elements": true,
     "LeetCode_Trapping_Rain_Water": true,
-    "GeeksForGeeks_Triplet_Sum_in_Array": true
+    "GeeksForGeeks_Triplet_Sum_in_Array": true,
+    "LeetCode_Search_a_2D_Matrix": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -49,9 +50,10 @@
     "2026-08-05": 4,
     "2026-08-06": 2,
     "2026-08-11": 1,
-    "2026-08-13": 1
+    "2026-08-13": 1,
+    "2026-08-14": 1
   },
   "todayProblems": [
-    "Triplet Sum in Array"
+    "Search a 2D Matrix"
   ]
 }
