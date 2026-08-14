@@ -33,3 +33,4 @@
 | 31 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 11 Aug 2026 | 03:07 pm |
 | 32 | [Triplet Sum in Array](./GeeksForGeeks/Medium/Triplet%20Sum%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Medium | 13 Aug 2026 | 11:07 am |
 | 33 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 14 Aug 2026 | 12:54 pm |
+| 34 | [Merge Two 2D Arrays by Summing Values](./LeetCode/Easy/Merge%20Two%202D%20Arrays%20by%20Summing%20Values) | [LeetCode](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Easy | 14 Aug 2026 | 02:00 pm |
