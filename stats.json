@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 10,
+    "medium": 11,
     "hard": 2,
     "basic": 16
   },
@@ -43,7 +43,8 @@
     "LeetCode_Search_a_2D_Matrix": true,
     "LeetCode_Merge_Two_2D_Arrays_by_Summing_Values": true,
     "GeeksForGeeks_Transpose_of_Matrix": true,
-    "LeetCode_Spiral_Matrix": true
+    "LeetCode_Spiral_Matrix": true,
+    "LeetCode_Rotate_Image": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -55,10 +56,11 @@
     "2026-08-11": 1,
     "2026-08-13": 1,
     "2026-08-14": 2,
-    "2026-08-16": 2
+    "2026-08-16": 3
   },
   "todayProblems": [
     "Transpose of Matrix",
-    "Spiral Matrix"
+    "Spiral Matrix",
+    "Rotate Image"
   ]
 }

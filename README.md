@@ -36,3 +36,4 @@
 | 34 | [Merge Two 2D Arrays by Summing Values](./LeetCode/Easy/Merge%20Two%202D%20Arrays%20by%20Summing%20Values) | [LeetCode](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Easy | 14 Aug 2026 | 02:00 pm |
 | 35 | [Transpose of Matrix](./GeeksForGeeks/Easy/Transpose%20of%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1?utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Easy | 16 Aug 2026 | 12:57 pm |
 | 36 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 16 Aug 2026 | 02:21 pm |
+| 37 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 16 Aug 2026 | 02:39 pm |
