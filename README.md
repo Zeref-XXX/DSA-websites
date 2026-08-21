@@ -37,3 +37,4 @@
 | 35 | [Transpose of Matrix](./GeeksForGeeks/Easy/Transpose%20of%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1?utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Easy | 16 Aug 2026 | 12:57 pm |
 | 36 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 16 Aug 2026 | 02:21 pm |
 | 37 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 16 Aug 2026 | 02:39 pm |
+| 38 | [Rotate a Matrix by 180 Counterclockwise](./GeeksForGeeks/Medium/Rotate%20a%20Matrix%20by%20180%20Counterclockwise) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/c-matrix-rotation-by-180-degree0745/1?utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Medium | 21 Aug 2026 | 11:52 am |
