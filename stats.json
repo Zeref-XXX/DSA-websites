@@ -1,11 +1,11 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-08-21",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-23",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 13,
     "hard": 2,
     "basic": 16
@@ -46,7 +46,8 @@
     "LeetCode_Spiral_Matrix": true,
     "LeetCode_Rotate_Image": true,
     "GeeksForGeeks_Rotate_a_Matrix_by_180_Counterclockwise": true,
-    "GeeksForGeeks_Search_in_a_sorted_Matrix": true
+    "GeeksForGeeks_Search_in_a_sorted_Matrix": true,
+    "GeeksForGeeks_Missing_And_Repeating": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -59,10 +60,10 @@
     "2026-08-13": 1,
     "2026-08-14": 2,
     "2026-08-16": 3,
-    "2026-08-21": 2
+    "2026-08-21": 2,
+    "2026-08-23": 1
   },
   "todayProblems": [
-    "Rotate a Matrix by 180 Counterclockwise",
-    "Search in a sorted Matrix"
+    "Missing And Repeating"
   ]
 }
