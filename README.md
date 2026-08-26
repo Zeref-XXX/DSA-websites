@@ -42,3 +42,4 @@
 | 40 | [Missing And Repeating](./GeeksForGeeks/Easy/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Easy | 23 Aug 2026 | 03:52 pm |
 | 41 | [Frequencies in a Limited Array](./GeeksForGeeks/Easy/Frequencies%20in%20a%20Limited%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Easy | 24 Aug 2026 | 12:41 pm |
 | 42 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 24 Aug 2026 | 01:02 pm |
+| 43 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 26 Aug 2026 | 12:13 pm |
