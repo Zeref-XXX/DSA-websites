@@ -1,11 +1,11 @@
 {
-  "totalSolved": 40,
+  "totalSolved": 41,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 13,
     "hard": 2,
     "basic": 16
@@ -50,7 +50,8 @@
     "GeeksForGeeks_Missing_And_Repeating": true,
     "GeeksForGeeks_Frequencies_in_a_Limited_Array": true,
     "LeetCode_Majority_Element": true,
-    "LeetCode_Defanging_an_IP_Address": true
+    "LeetCode_Defanging_an_IP_Address": true,
+    "GeeksForGeeks_String_Rotated_by_2_Places": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -66,9 +67,10 @@
     "2026-08-21": 2,
     "2026-08-23": 1,
     "2026-08-24": 2,
-    "2026-08-26": 1
+    "2026-08-26": 2
   },
   "todayProblems": [
-    "Defanging an IP Address"
+    "Defanging an IP Address",
+    "String Rotated by 2 Places"
   ]
 }
