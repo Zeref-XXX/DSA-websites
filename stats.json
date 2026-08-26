@@ -1,11 +1,11 @@
 {
-  "totalSolved": 41,
+  "totalSolved": 42,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 13,
     "hard": 2,
     "basic": 16
@@ -51,7 +51,8 @@
     "GeeksForGeeks_Frequencies_in_a_Limited_Array": true,
     "LeetCode_Majority_Element": true,
     "LeetCode_Defanging_an_IP_Address": true,
-    "GeeksForGeeks_String_Rotated_by_2_Places": true
+    "GeeksForGeeks_String_Rotated_by_2_Places": true,
+    "LeetCode_Check_if_the_Sentence_Is_Pangram": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -67,10 +68,11 @@
     "2026-08-21": 2,
     "2026-08-23": 1,
     "2026-08-24": 2,
-    "2026-08-26": 2
+    "2026-08-26": 3
   },
   "todayProblems": [
     "Defanging an IP Address",
-    "String Rotated by 2 Places"
+    "String Rotated by 2 Places",
+    "Check if the Sentence Is Pangram"
   ]
 }

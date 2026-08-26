@@ -44,3 +44,4 @@
 | 42 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 24 Aug 2026 | 01:02 pm |
 | 43 | [Defanging an IP Address](./LeetCode/Easy/Defanging%20an%20IP%20Address) | [LeetCode](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | 26 Aug 2026 | 12:13 pm |
 | 44 | [String Rotated by 2 Places](./GeeksForGeeks/Easy/String%20Rotated%20by%202%20Places) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Easy | 26 Aug 2026 | 12:35 pm |
+| 45 | [Check if the Sentence Is Pangram](./LeetCode/Easy/Check%20if%20the%20Sentence%20Is%20Pangram) | [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | 26 Aug 2026 | 12:51 pm |
