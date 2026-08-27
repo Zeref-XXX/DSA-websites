@@ -47,3 +47,4 @@
 | 45 | [Check if the Sentence Is Pangram](./LeetCode/Easy/Check%20if%20the%20Sentence%20Is%20Pangram) | [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | 26 Aug 2026 | 12:51 pm |
 | 46 | [Sort a String](./GeeksForGeeks/Basic/Sort%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-a-string2943/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Basic | 26 Aug 2026 | 01:18 pm |
 | 47 | [Longest Palindrome](./LeetCode/Easy/Longest%20Palindrome) | [LeetCode](https://leetcode.com/problems/longest-palindrome/) | Easy | 27 Aug 2026 | 12:01 pm |
+| 48 | [Sorting the Sentence](./LeetCode/Easy/Sorting%20the%20Sentence) | [LeetCode](https://leetcode.com/problems/sorting-the-sentence/) | Easy | 27 Aug 2026 | 12:38 pm |
