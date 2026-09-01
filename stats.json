@@ -1,12 +1,12 @@
 {
-  "totalSolved": 45,
-  "currentStreak": 2,
+  "totalSolved": 46,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-08-27",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 13,
+    "medium": 14,
     "hard": 2,
     "basic": 17
   },
@@ -55,7 +55,8 @@
     "LeetCode_Check_if_the_Sentence_Is_Pangram": true,
     "GeeksForGeeks_Sort_a_String": true,
     "LeetCode_Longest_Palindrome": true,
-    "LeetCode_Sorting_the_Sentence": true
+    "LeetCode_Sorting_the_Sentence": true,
+    "LeetCode_Sort_Vowels_in_a_String": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -72,10 +73,10 @@
     "2026-08-23": 1,
     "2026-08-24": 2,
     "2026-08-26": 4,
-    "2026-08-27": 2
+    "2026-08-27": 2,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Longest Palindrome",
-    "Sorting the Sentence"
+    "Sort Vowels in a String"
   ]
 }
