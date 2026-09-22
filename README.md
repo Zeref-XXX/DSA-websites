@@ -50,3 +50,4 @@
 | 48 | [Sorting the Sentence](./LeetCode/Easy/Sorting%20the%20Sentence) | [LeetCode](https://leetcode.com/problems/sorting-the-sentence/) | Easy | 27 Aug 2026 | 12:38 pm |
 | 49 | [Sort Vowels in a String](./LeetCode/Medium/Sort%20Vowels%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | 01 Sept 2026 | 12:56 pm |
 | 50 | [Case-specific Sorting of Strings](./GeeksForGeeks/Medium/Case-specific%20Sorting%20of%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1) | Medium | 04 Sept 2026 | 04:09 pm |
+| 51 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 22 Sept 2026 | 08:17 pm |

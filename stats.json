@@ -1,11 +1,11 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-09-04",
+  "lastSyncDate": "2026-09-22",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 15,
     "hard": 2,
     "basic": 17
@@ -57,7 +57,8 @@
     "LeetCode_Longest_Palindrome": true,
     "LeetCode_Sorting_the_Sentence": true,
     "LeetCode_Sort_Vowels_in_a_String": true,
-    "GeeksForGeeks_Case-specific_Sorting_of_Strings": true
+    "GeeksForGeeks_Case-specific_Sorting_of_Strings": true,
+    "LeetCode_Roman_to_Integer": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -76,9 +77,10 @@
     "2026-08-26": 4,
     "2026-08-27": 2,
     "2026-09-01": 1,
-    "2026-09-04": 1
+    "2026-09-04": 1,
+    "2026-09-22": 1
   },
   "todayProblems": [
-    "Case-specific Sorting of Strings"
+    "Roman to Integer"
   ]
 }
