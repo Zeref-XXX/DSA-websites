@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
-  "currentStreak": 2,
+  "totalSolved": 51,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-09-26",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 17,
+    "medium": 18,
     "hard": 2,
     "basic": 17
   },
@@ -60,7 +60,8 @@
     "GeeksForGeeks_Case-specific_Sorting_of_Strings": true,
     "LeetCode_Roman_to_Integer": true,
     "LeetCode_Integer_to_Roman": true,
-    "GeeksForGeeks_Factorials_of_Large": true
+    "GeeksForGeeks_Factorials_of_Large": true,
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -82,9 +83,10 @@
     "2026-09-04": 1,
     "2026-09-22": 1,
     "2026-09-25": 1,
-    "2026-09-26": 1
+    "2026-09-26": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Factorials of Large"
+    "Longest Substring Without Repeating Characters"
   ]
 }

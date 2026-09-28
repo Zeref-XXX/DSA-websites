@@ -34,3 +34,4 @@
 | 51 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 22 Sept 2026 | 08:17 pm |
 | 52 | [Integer to Roman](./LeetCode/Medium/Integer%20to%20Roman) | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | Medium | 25 Sept 2026 | 10:37 am |
 | 34 | [Factorials of Large](./GeeksForGeeks/Medium/Factorials%20of%20Large) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1?page=1&category=Strings&difficulty=Medium&sortBy=submissions) | Medium | 26 Sept 2026 | 04:32 pm |
+| 35 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 28 Sept 2026 | 03:36 pm |
