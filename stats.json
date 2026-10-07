@@ -1,14 +1,14 @@
 {
-  "totalSolved": 54,
-  "currentStreak": 1,
+  "totalSolved": 55,
+  "currentStreak": 2,
   "maxStreak": 3,
-  "lastSyncDate": "2026-10-06",
+  "lastSyncDate": "2026-10-07",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 15,
     "medium": 20,
     "hard": 2,
-    "basic": 17
+    "basic": 18
   },
   "syncedProblems": {
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
@@ -64,7 +64,8 @@
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "GeeksForGeeks_Smallest_Window_Length_with_All": true,
     "LeetCode_Reverse_Words_in_a_String": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "GeeksForGeeks_Factorial": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -89,9 +90,10 @@
     "2026-09-26": 1,
     "2026-09-28": 1,
     "2026-09-29": 2,
-    "2026-10-06": 1
+    "2026-10-06": 1,
+    "2026-10-07": 1
   },
   "todayProblems": [
-    "Merge Two Sorted Lists"
+    "Factorial"
   ]
 }
