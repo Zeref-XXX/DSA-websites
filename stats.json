@@ -1,12 +1,12 @@
 {
-  "totalSolved": 56,
+  "totalSolved": 57,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-07",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 20,
+    "medium": 21,
     "hard": 2,
     "basic": 19
   },
@@ -66,7 +66,8 @@
     "LeetCode_Reverse_Words_in_a_String": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "GeeksForGeeks_Factorial": true,
-    "GeeksForGeeks_Sum_of_Natural_Numbers": true
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true,
+    "GeeksForGeeks_Raise_to_Power_of_Its_Own_Reverse": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -92,10 +93,11 @@
     "2026-09-28": 1,
     "2026-09-29": 2,
     "2026-10-06": 1,
-    "2026-10-07": 2
+    "2026-10-07": 3
   },
   "todayProblems": [
     "Factorial",
-    "Sum of Natural Numbers"
+    "Sum of Natural Numbers",
+    "Raise to Power of Its Own Reverse"
   ]
 }
