@@ -1,14 +1,14 @@
 {
-  "totalSolved": 55,
+  "totalSolved": 56,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-07",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 15,
     "medium": 20,
     "hard": 2,
-    "basic": 18
+    "basic": 19
   },
   "syncedProblems": {
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
@@ -65,7 +65,8 @@
     "GeeksForGeeks_Smallest_Window_Length_with_All": true,
     "LeetCode_Reverse_Words_in_a_String": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
-    "GeeksForGeeks_Factorial": true
+    "GeeksForGeeks_Factorial": true,
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -91,9 +92,10 @@
     "2026-09-28": 1,
     "2026-09-29": 2,
     "2026-10-06": 1,
-    "2026-10-07": 1
+    "2026-10-07": 2
   },
   "todayProblems": [
-    "Factorial"
+    "Factorial",
+    "Sum of Natural Numbers"
   ]
 }
