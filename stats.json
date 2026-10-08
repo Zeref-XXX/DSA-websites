@@ -1,12 +1,12 @@
 {
-  "totalSolved": 58,
+  "totalSolved": 59,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 22,
+    "medium": 23,
     "hard": 2,
     "basic": 19
   },
@@ -68,7 +68,8 @@
     "GeeksForGeeks_Factorial": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Raise_to_Power_of_Its_Own_Reverse": true,
-    "LeetCode_Sum_of_Square_Numbers": true
+    "LeetCode_Sum_of_Square_Numbers": true,
+    "LeetCode_Pow(x,_n)": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -95,9 +96,10 @@
     "2026-09-29": 2,
     "2026-10-06": 1,
     "2026-10-07": 3,
-    "2026-10-08": 1
+    "2026-10-08": 2
   },
   "todayProblems": [
-    "Sum of Square Numbers"
+    "Sum of Square Numbers",
+    "Pow(x, n)"
   ]
 }
