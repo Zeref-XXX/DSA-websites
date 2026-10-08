@@ -41,3 +41,4 @@
 | 39 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 07 Oct 2026 | 10:11 am |
 | 40 | [Sum of Natural Numbers](./GeeksForGeeks/Basic/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Basic | 07 Oct 2026 | 10:21 am |
 | 41 | [Raise to Power of Its Own Reverse](./GeeksForGeeks/Medium/Raise%20to%20Power%20of%20Its%20Own%20Reverse) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | Medium | 07 Oct 2026 | 11:27 am |
+| 42 | [Sum of Square Numbers](./LeetCode/Medium/Sum%20of%20Square%20Numbers) | [LeetCode](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | 08 Oct 2026 | 12:06 pm |
