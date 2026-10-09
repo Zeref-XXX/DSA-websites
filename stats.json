@@ -1,11 +1,11 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 23,
     "hard": 2,
     "basic": 19
@@ -70,7 +70,8 @@
     "GeeksForGeeks_Raise_to_Power_of_Its_Own_Reverse": true,
     "LeetCode_Sum_of_Square_Numbers": true,
     "LeetCode_Pow(x,_n)": true,
-    "LeetCode_Fibonacci_Number": true
+    "LeetCode_Fibonacci_Number": true,
+    "LeetCode_Climbing_Stairs": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -98,9 +99,10 @@
     "2026-10-06": 1,
     "2026-10-07": 3,
     "2026-10-08": 2,
-    "2026-10-09": 1
+    "2026-10-09": 2
   },
   "todayProblems": [
-    "Fibonacci Number"
+    "Fibonacci Number",
+    "Climbing Stairs"
   ]
 }

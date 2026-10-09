@@ -44,3 +44,4 @@
 | 42 | [Sum of Square Numbers](./LeetCode/Medium/Sum%20of%20Square%20Numbers) | [LeetCode](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | 08 Oct 2026 | 12:06 pm |
 | 43 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 08 Oct 2026 | 02:18 pm |
 | 44 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 09 Oct 2026 | 12:15 pm |
+| 45 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 09 Oct 2026 | 12:30 pm |
