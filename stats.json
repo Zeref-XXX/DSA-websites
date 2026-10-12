@@ -1,14 +1,14 @@
 {
-  "totalSolved": 64,
+  "totalSolved": 65,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 18,
     "medium": 23,
     "hard": 2,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
@@ -74,7 +74,8 @@
     "LeetCode_Climbing_Stairs": true,
     "GeeksForGeeks_GCD_of_Two": true,
     "GeeksForGeeks_Palindrome_String": true,
-    "LeetCode_Count_the_Number_of_Vowel_Strings_in_Range": true
+    "LeetCode_Count_the_Number_of_Vowel_Strings_in_Range": true,
+    "GeeksForGeeks_Reverse_a_String": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -103,11 +104,12 @@
     "2026-10-07": 3,
     "2026-10-08": 2,
     "2026-10-09": 2,
-    "2026-10-12": 3
+    "2026-10-12": 4
   },
   "todayProblems": [
     "GCD of Two",
     "Palindrome String",
-    "Count the Number of Vowel Strings in Range"
+    "Count the Number of Vowel Strings in Range",
+    "Reverse a String"
   ]
 }
