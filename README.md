@@ -45,3 +45,4 @@
 | 43 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 08 Oct 2026 | 02:18 pm |
 | 44 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 09 Oct 2026 | 12:15 pm |
 | 45 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 09 Oct 2026 | 12:30 pm |
+| 46 | [GCD of Two](./GeeksForGeeks/Basic/GCD%20of%20Two) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks) | Basic | 12 Oct 2026 | 11:00 am |
