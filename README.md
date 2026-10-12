@@ -49,3 +49,4 @@
 | 47 | [Palindrome String](./GeeksForGeeks/Basic/Palindrome%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | Basic | 12 Oct 2026 | 11:39 am |
 | 48 | [Count the Number of Vowel Strings in Range](./LeetCode/Easy/Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | Easy | 12 Oct 2026 | 11:54 am |
 | 49 | [Reverse a String](./GeeksForGeeks/Basic/Reverse%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | Basic | 12 Oct 2026 | 12:25 pm |
+| 50 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 12 Oct 2026 | 12:27 pm |
