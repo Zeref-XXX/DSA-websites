@@ -51,3 +51,4 @@
 | 49 | [Reverse a String](./GeeksForGeeks/Basic/Reverse%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | Basic | 12 Oct 2026 | 12:25 pm |
 | 50 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 12 Oct 2026 | 12:27 pm |
 | 51 | [Toggle Case](./GeeksForGeeks/Easy/Toggle%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/toggle-case/1) | Easy | 12 Oct 2026 | 12:42 pm |
+| 52 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 13 Oct 2026 | 05:26 pm |
