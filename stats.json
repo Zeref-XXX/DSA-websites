@@ -1,14 +1,14 @@
 {
-  "totalSolved": 68,
+  "totalSolved": 69,
   "currentStreak": 2,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 21,
     "medium": 23,
     "hard": 2,
-    "basic": 22
+    "basic": 23
   },
   "syncedProblems": {
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
@@ -78,7 +78,8 @@
     "GeeksForGeeks_Reverse_a_String": true,
     "LeetCode_Reverse_String": true,
     "GeeksForGeeks_Toggle_Case": true,
-    "LeetCode_Binary_Search": true
+    "LeetCode_Binary_Search": true,
+    "GeeksForGeeks_Binary_Search": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -108,7 +109,7 @@
     "2026-10-08": 2,
     "2026-10-09": 2,
     "2026-10-12": 6,
-    "2026-10-13": 1
+    "2026-10-13": 2
   },
   "todayProblems": [
     "Binary Search"
