@@ -56,3 +56,4 @@
 | 54 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 23 Oct 2026 | 12:03 pm |
 | 55 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 26 Oct 2026 | 10:51 am |
 | 56 | [Permutations II](./LeetCode/Medium/Permutations%20II) | [LeetCode](https://leetcode.com/problems/permutations-ii/) | Medium | 27 Oct 2026 | 02:34 pm |
+| 57 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 29 Oct 2026 | 05:19 pm |

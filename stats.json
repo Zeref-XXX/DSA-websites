@@ -1,12 +1,12 @@
 {
-  "totalSolved": 73,
-  "currentStreak": 2,
+  "totalSolved": 74,
+  "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-10-27",
+  "lastSyncDate": "2026-10-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 27,
+    "medium": 28,
     "hard": 2,
     "basic": 23
   },
@@ -83,7 +83,8 @@
     "LeetCode_Sort_an_Array": true,
     "LeetCode_Subsets": true,
     "LeetCode_Generate_Parentheses": true,
-    "LeetCode_Permutations_II": true
+    "LeetCode_Permutations_II": true,
+    "LeetCode_Permutations": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -117,9 +118,10 @@
     "2026-10-15": 1,
     "2026-10-23": 1,
     "2026-10-26": 1,
-    "2026-10-27": 1
+    "2026-10-27": 1,
+    "2026-10-29": 1
   },
   "todayProblems": [
-    "Permutations II"
+    "Permutations"
   ]
 }
