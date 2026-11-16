@@ -58,3 +58,4 @@
 | 56 | [Permutations II](./LeetCode/Medium/Permutations%20II) | [LeetCode](https://leetcode.com/problems/permutations-ii/) | Medium | 27 Oct 2026 | 02:34 pm |
 | 57 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 29 Oct 2026 | 05:19 pm |
 | 58 | [Find the Winner of the Circular Game](./LeetCode/Medium/Find%20the%20Winner%20of%20the%20Circular%20Game) | [LeetCode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | 16 Nov 2026 | 04:03 pm |
+| 59 | [Rat in Maze](./GeeksForGeeks/Medium/Rat%20in%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | Medium | 16 Nov 2026 | 06:04 pm |
