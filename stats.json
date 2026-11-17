@@ -1,12 +1,12 @@
 {
-  "totalSolved": 76,
-  "currentStreak": 1,
+  "totalSolved": 77,
+  "currentStreak": 2,
   "maxStreak": 4,
-  "lastSyncDate": "2026-11-16",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 30,
+    "medium": 31,
     "hard": 2,
     "basic": 23
   },
@@ -86,7 +86,8 @@
     "LeetCode_Permutations_II": true,
     "LeetCode_Permutations": true,
     "LeetCode_Find_the_Winner_of_the_Circular_Game": true,
-    "GeeksForGeeks_Rat_in_Maze": true
+    "GeeksForGeeks_Rat_in_Maze": true,
+    "GeeksForGeeks_Binary_Numbers_with_More_1s_in_All_Prefixes": true
   },
   "activityHistory": {
     "2026-07-26": 3,
@@ -122,10 +123,10 @@
     "2026-10-26": 1,
     "2026-10-27": 1,
     "2026-10-29": 1,
-    "2026-11-16": 2
+    "2026-11-16": 2,
+    "2026-11-17": 1
   },
   "todayProblems": [
-    "Find the Winner of the Circular Game",
-    "Rat in Maze"
+    "Binary Numbers with More 1s in All Prefixes"
   ]
 }
