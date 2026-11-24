@@ -62,3 +62,4 @@
 | 60 | [Binary Numbers with More 1s in All Prefixes](./GeeksForGeeks/Medium/Binary%20Numbers%20with%20More%201s%20in%20All%20Prefixes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1) | Medium | 17 Nov 2026 | 05:14 pm |
 | 61 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 19 Nov 2026 | 12:33 pm |
 | 62 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 23 Nov 2026 | 06:03 pm |
+| 63 | [Product of the Last K Numbers](./LeetCode/Medium/Product%20of%20the%20Last%20K%20Numbers) | [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | 24 Nov 2026 | 11:04 am |
